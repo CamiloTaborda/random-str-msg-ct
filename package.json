@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-ct",
+  "version": "1.0.0",
+  "description": "Random Strign Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Camilo Taborda <camilotaborda2010@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamiloTaborda/random-str-msg-ct/issues"
+  },
+  "homepage": "https://github.com/CamiloTaborda/random-str-msg-ct#readme",
+  "bin": {
+    "random-str-msg-ct": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
